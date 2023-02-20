@@ -1,0 +1,86 @@
+h1, h2, h3, p, ul, ol  {   /* for all text on the page (doesn't effect ol # and ul bullets) */
+
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1 {
+    font-family: fantasy;
+    font-size: 75px;
+}
+
+
+h2 {
+    font-size: 50px;
+}
+
+
+h3 {
+    font-size: 30px;
+}
+
+
+h1, h2, h3 {        /* covers all headers */
+    text-align: center;
+    color: #1c110a;
+}
+
+
+p, ul, ol {   /* covers all lists and paragraphs*/
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*padding-left: 20%;
+    padding-right: 20%;*/
+}
+
+
+/*body {
+    background-image: url(images/solidcolor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+
+h2, h3, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+footer {
+    text-align: center;
+}
+
+.container img {
+    width: 10%;
+    padding-left: 43%;
+}
+
+
+section {
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 50%;
+}
+
+
+/* problems
+lists wont bring numbers and bullets to the center maybe use margin for those (fixed)
+
+
+USE
+background, color, font-family, font-size,
+height, margin, padding, text-align
+
+use an image
+
+just get a good color palette
+
+maybe get a background image
+*/
