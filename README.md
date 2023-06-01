@@ -1,3 +1,10 @@
 # Webpage-Portfolio
 webpage portfolio (5.10)
-portfolio project
+## Portfolio Project
+
+## Improvements
+-optimize code
+
+-format better
+
+-add animation
